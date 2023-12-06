@@ -1,7 +1,7 @@
-package algorithms;
+package arrays;
 
 public class WavePatternFromTwoDArray {
-//    "[{1,2,3}
+    //    "[{1,2,3}
 //    {7,8,9}]""
 //    {4,5,6}
 //    "Output required is a wave pattern like 1 4 7 8 5 2 3 6 9"
